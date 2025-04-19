@@ -1,0 +1,21 @@
+{
+  "type": "create:cutting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "valhelsia_structures"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "minecraft:warped_stem"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 2,
+      "item": "valhelsia_structures:warped_post"
+    }
+  ]
+}

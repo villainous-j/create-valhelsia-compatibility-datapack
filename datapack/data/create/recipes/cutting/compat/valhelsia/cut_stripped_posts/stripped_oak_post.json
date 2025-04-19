@@ -1,0 +1,21 @@
+{
+  "type": "create:cutting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "valhelsia_structures"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "valhelsia_structures:stripped_oak_post"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 4,
+      "item": "valhelsia_structures:cut_stripped_oak_post"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:cutting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "valhelsia_structures"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "valhelsia_structures:lapidified_jungle_wood"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 6,
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    }
+  ]
+}

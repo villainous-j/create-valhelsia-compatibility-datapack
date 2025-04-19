@@ -1,0 +1,21 @@
+{
+  "type": "create:cutting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "valhelsia_structures"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "minecraft:stripped_dark_oak_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 2,
+      "item": "valhelsia_structures:stripped_dark_oak_post"
+    }
+  ]
+}
